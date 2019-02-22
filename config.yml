@@ -1,0 +1,13 @@
+config:
+  activated: true
+  prefix: '&8[&6&lZ&8] &7'
+  line1: '&8&m-------------------------'
+  line2: '&7Welcome to &6&lZNetwork'
+  line3: '&7'
+  line4: '&7Walk thru portals'
+  line5: '&7to start playing!'
+  line6: '&7Or you can select a'
+  line7: '&7game within the game '
+  line8: '&7compass. Enjoy!'
+  line9: '&7'
+  line10: '&8&m-------------------------'
